@@ -1,0 +1,3 @@
+"""
+Smart Agro - Utils Package
+"""
